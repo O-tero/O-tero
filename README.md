@@ -41,6 +41,8 @@ I'm a Backend Web Developer 💻, Devops Engineer 👩‍💻 !
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </br>
 
@@ -55,9 +57,9 @@ I'm a Backend Web Developer 💻, Devops Engineer 👩‍💻 !
 
 ✅ Work collaboratively in a team
 
-✅ Meet tight deadlines
-
 ✅ Good communication skills
+
+✅ Meet tight deadlines
 
 <hr>
 
