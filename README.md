@@ -8,14 +8,14 @@ I'm a Backend Web Developer 💻, Devops Engineer 👩‍💻 !
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+## 🔭 I'm working on
 
 - Django Projects
 - My next blog & Portfolio
 - My Python Skills
 - My MySQL and MongoDB Skills
 
-## 🌱 I'm currently learning
+## 🌱 I'm learning
 
 - **📱 C, C++, Python, Golang, and other programming languages**
 
@@ -64,9 +64,12 @@ Name | Badges
 
 ## 📈 GitHub Stats
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=O-tero&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/O-tero/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-tero&langs_count=8)](https://github.com/O-tero/github-readme-stats)
+![O-tero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=O-tero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![O-tero's Stats](https://github-readme-stats.vercel.app/api?username=O-tero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+<b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.
 
 <!--
 
@@ -81,3 +84,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![O-tero's Stats](https://github-readme-stats.vercel.app/api?username=O-tero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![O-tero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=O-tero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
