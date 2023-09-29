@@ -19,7 +19,7 @@ I'm a Backend Web Developer 💻, Devops Engineer 👩‍💻 !
 
 - **📱 C, C++, Python, Golang, and other programming languages**
 
-- **Django**
+- **Django**, **Go Frameworks**
 
 - **System Design Patterns**
 
