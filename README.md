@@ -17,39 +17,37 @@ I'm a Backend Web Developer 💻, Devops Engineer 👩‍💻 !
 
 ## 🔭 I'm currently working on
 
-- My old projects
 - Django Projects
 - My next blog & Portfolio
-- My Python skill
+- My Python Skills
 - My MySQL and MongoDB Skills
 
 ## 🌱 I'm currently learning
 
-- **📱 C, Python, Golang, and other programming language**
+- **📱 C, Python, Golang, C++ and other programming languages**
 
 - **Django**
 
-- **MongoDB**
+- **System Design Patterns
 
-- ⚡ Fun fact **I'm a student of ALX Software Engineering Programme**
+- **Dynamic Programming**
+
+- **Microservices**
+
+- ⚡ Fun fact **I'm a graduate the of ALX Software Engineering Programme cohort 5**
 
 - 🔭 I'm a member of **Google Developer Group**
 
-## 💼 Technical Skills
+## 💼 Tools and Frameworks
 
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+Name | Badges
+--- | --- 
+**Languages**  | ! [Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+**Frameworks, Platforms and Libraries** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+**Databases**  | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**CI/CD & Hosting**   | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 </br>
-
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 <hr>
 
@@ -61,6 +59,8 @@ I'm a Backend Web Developer 💻, Devops Engineer 👩‍💻 !
 
 ✅ Meet tight deadlines
 
+✅ Backend computing
+
 <hr>
 
 ## 📈 GitHub Stats
@@ -68,8 +68,6 @@ I'm a Backend Web Developer 💻, Devops Engineer 👩‍💻 !
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=O-tero&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/O-tero/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-tero&langs_count=8)](https://github.com/O-tero/github-readme-stats)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=O-tero.O-tero)](https://github.com/O-tero)
 
 <!--
 
