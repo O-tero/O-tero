@@ -17,7 +17,7 @@ I'm a Backend Web Developer 💻, Devops Engineer 👩‍💻 !
 
 ## 🌱 I'm learning
 
-- **📱 C, C++, Python, Golang, and other programming languages**
+- **📱 C, C++, Python, Golang, Kubernetes**
 
 - **Django**, **Go Frameworks**
 
@@ -27,7 +27,7 @@ I'm a Backend Web Developer 💻, Devops Engineer 👩‍💻 !
 
 - **Microservices**
 
-- ⚡ Fun fact **I'm a graduate the of ALX Software Engineering Programme cohort 5**
+- ⚡ Fun fact **I'm a graduate of the ALX Software Engineering Programme cohort 5**
 
 - 🔭 I'm a member of **Google Developer Group**
 
