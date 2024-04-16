@@ -6,7 +6,7 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Otero</a> 👋
 I'm a Backend Web Developer 💻, Devops Engineer 👩‍💻 !
 </h2>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm working on
 
