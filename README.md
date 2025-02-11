@@ -1,86 +1,79 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Otero%20Brian&fontSize=45&fontColor=ffffff&animation=fadeIn)
+
 <h3 align="center">
 Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Otero</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Backend Web Developer 💻, Devops Engineer 👩‍💻 !
+🚀 Backend Developer | DevOps Engineer | Open-Source Contributor
 </h2>
 
-- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=O-tero&theme=dracula&no-frame=true&margin-w=15" />
+</p>
 
-## 🔭 I'm working on
+## 👨‍💻 About Me
 
-- Django Projects
-- My next blog & Portfolio
-- My Python Skills
-- My MySQL and MongoDB Skills
+- 🎓 **Graduate of ALX Software Engineering Programme (Cohort 5)**
+- 🔧 **Passionate about Backend Engineering, DevOps, and Cloud Computing**
+- 💬 **Ask me about:** Django, Go, System Design, Microservices, and API Development
+- 🌍 **Member of:** Google Developer Group
+- ✍ **I write technical blogs on:** [Medium](https://medium.com/@oteronickbrian)
+- 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/otero-onderi/)
 
-## 🌱 I'm learning
+## 🔭 Current Projects
 
-- **📱 C, C++, Python, Golang, Kubernetes**
+- 🌐 **Developing a Secure Healthcare Data Access Control System (Healthcare_DBAC) with Django**
+- 🛠 **Building an AI-powered document processing tool using Django and OpenAI API**
+- 🔍 **Enhancing the Go-based `ccwc` CLI tool for word counting**
+- 📜 **Developing Mboka - USSD and Web App platform**
 
-- **Django**, **Go Frameworks**
+## 📚 What I'm Learning
 
-- **System Design Patterns**
+- **🛠 Golang & Kubernetes for Scalable Systems**
+- **📡 DevOps & Cloud Computing (AWS, Docker, Terraform)**
+- **📈 Advanced System Design & Microservices Architecture**
+- **🔍 Redis, PostgreSQL, and MongoDB Optimization**
+- **⚡ Improving Performance & Scalability of Web Applications**
 
-- **Dynamic Programming**
+## 🛠 Tech Stack
 
-- **Microservices**
+### 🔹 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 
-- ⚡ Fun fact **I'm a graduate of the ALX Software Engineering Programme cohort 5**
+### 🔹 Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
-- 🔭 I'm a member of **Google Developer Group**
+### 🔹 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### 🤝 Connect with me:
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otero-onderi/)
-[![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@oteronickbrian)
-</br>
-
-## 💼 Tools and Frameworks
-
-Name | Badges
---- | --- 
-**Languages**  | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-**Frameworks, Platforms and Libraries** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-**Databases**  | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-**CI/CD & Hosting**   | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-</br>
-
-<hr>
-
-### 👔 Soft skills
-
-✅ Work collaboratively in a team
-
-✅ Good communication skills
-
-✅ Meet tight deadlines
-
-✅ Backend computing
-
-<hr>
+### 🔹 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
 
 ## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=O-tero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=O-tero&theme=vue-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-tero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
 
-![O-tero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=O-tero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+## 🤝 Let's Connect!
 
-![O-tero's Stats](https://github-readme-stats.vercel.app/api?username=O-tero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otero-onderi/)  
+[![medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@oteronickbrian)  
 
-<b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.
+---
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+💡 **"Code, Learn, Share, and Grow!"** 🚀
