@@ -31,6 +31,7 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Otero</a> 👋
 ## 📚 What I'm Learning
 
 - **🛠 Golang & Kubernetes for Scalable Systems**
+- **🛠 Deep Learning, Machine Learning**
 - **📡 DevOps & Cloud Computing (AWS, Docker, Terraform)**
 - **📈 Advanced System Design & Microservices Architecture**
 - **🔍 Redis, PostgreSQL, and MongoDB Optimization**
